@@ -1,18 +1,5 @@
 # fluter_bwa_airplane
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Repository contains a project which is result my learning about Flutter in Website BuildWithangga. The project is application to booking airplane to traveling or staycation. Technology which use is Dart for Flutter, Firebase for database, and user Bloc for state management.  
 
 reference: BWA Airplane
